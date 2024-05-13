@@ -1726,12 +1726,12 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
-		font-size: 3.5em;
+		color: #ca4a4a;
+		font-size: 5em;
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #1f29b0;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1744,9 +1744,9 @@
 	}
 
 	label {
-		color: #777;
+		color: #777777;
 		display: block;
-		font-size: 0.9em;
+		font-size: 2em;
 		font-weight: 700;
 		margin: 0 0 1.125em 0;
 	}
